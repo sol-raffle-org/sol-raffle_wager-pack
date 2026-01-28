@@ -1,0 +1,130 @@
+
+pack_anim.png
+size: 2028, 1820
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Explosion/Layer 1
+  rotate: false
+  xy: 2, 1654
+  size: 169, 164
+  orig: 1080, 1080
+  offset: 435, 416
+  index: -1
+Explosion/Layer 2
+  rotate: true
+  xy: 2, 936
+  size: 505, 527
+  orig: 1080, 1080
+  offset: 308, 251
+  index: -1
+Explosion/Layer 3
+  rotate: true
+  xy: 531, 815
+  size: 560, 572
+  orig: 1080, 1080
+  offset: 279, 236
+  index: -1
+Explosion/Layer 4
+  rotate: true
+  xy: 1105, 683
+  size: 618, 632
+  orig: 1080, 1080
+  offset: 250, 209
+  index: -1
+Explosion/Layer 5
+  rotate: true
+  xy: 2, 157
+  size: 656, 672
+  orig: 1080, 1080
+  offset: 228, 191
+  index: -1
+Explosion/Layer 6
+  rotate: true
+  xy: 676, 2
+  size: 679, 692
+  orig: 1080, 1080
+  offset: 214, 179
+  index: -1
+pack
+  rotate: true
+  xy: 464, 1443
+  size: 375, 542
+  orig: 529, 615
+  offset: 77, 37
+  index: -1
+pack_lose
+  rotate: false
+  xy: 1562, 1303
+  size: 464, 515
+  orig: 529, 615
+  offset: 33, 49
+  index: -1
+pack_win
+  rotate: true
+  xy: 1008, 1377
+  size: 441, 552
+  orig: 529, 615
+  offset: 52, 24
+  index: -1
+sol_coin
+  rotate: false
+  xy: 173, 1561
+  size: 289, 257
+  orig: 289, 257
+  offset: 0, 0
+  index: -1
+
+pack_anim_2.png
+size: 1561, 1533
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Explosion/Layer 10
+  rotate: false
+  xy: 776, 2
+  size: 783, 777
+  orig: 1080, 1080
+  offset: 164, 135
+  index: -1
+Explosion/Layer 7
+  rotate: true
+  xy: 2, 813
+  size: 718, 733
+  orig: 1080, 1080
+  offset: 197, 155
+  index: -1
+Explosion/Layer 8
+  rotate: false
+  xy: 737, 781
+  size: 751, 750
+  orig: 1080, 1080
+  offset: 180, 145
+  index: -1
+Explosion/Layer 9
+  rotate: false
+  xy: 2, 14
+  size: 772, 765
+  orig: 1080, 1080
+  offset: 169, 140
+  index: -1
+
+pack_anim_3.png
+size: 1592, 800
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Explosion/Layer 11
+  rotate: true
+  xy: 805, 2
+  size: 796, 785
+  orig: 1080, 1080
+  offset: 157, 130
+  index: -1
+Explosion/Layer 12
+  rotate: false
+  xy: 2, 6
+  size: 801, 792
+  orig: 1080, 1080
+  offset: 154, 126
+  index: -1
